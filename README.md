@@ -48,7 +48,7 @@ Public ssh key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/aT+6zGzgIYW6fOwluc1Q71+G
 
 Connect to machine 2(synd2):
 ```
-ssh synd2@172.138.63.97
+ssh synd2@174.138.63.97
 Password: demosynd
 Public ssh Key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJjsJUL4P60frmok4J759JzwPETa7z6mE3nHsuMxpWWdi9R8L6pujSyoKXxUBjncCIKw5qJu6VPr66Sw6PHv2QDifTxHuTnyVRrbRz+eOT3FTfV/u60BGboxI+SiXTsyiW8O3jpFKRSdLxup1art8C8BfVcyFV4VlTXU4LPKlrf4HBU1iCGVKh46rRZm73fbvu4kwiZ3DjXJLzxyqSX7jZqZw5IJCylZ4yR3FcrlYV+vgPQFV7ybirnTUq/G6q5yVXhr+KLoLp9umkrzDbeNkTU+V3zMpN06Z6+D4sBnNzQuCgIFW7YoKJkpM2WxgeNZCO26He+W4WaoIpq+aAf86B synd2@ubuntu-1gb-nyc3-01
 ```
